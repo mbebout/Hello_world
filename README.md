@@ -1,2 +1,2 @@
 # Hello_world
-Just another Repository
+I like chips better than candy
